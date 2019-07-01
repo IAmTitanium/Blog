@@ -79,3 +79,21 @@ theme: diaspora
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+live2d:
+  enable: true
+  scriptFrom: local
+  pluginRootPath: live2dw/
+  pluginJsPath: lib/
+  pluginModelPath: assets/
+  tagMode: false
+  debug: false
+  model:
+    use: live2d-widget-model-wanko
+  display:
+      width: 300
+      height: 400
+      position: right
+      right: 100
+  mobile:
+    show: false
