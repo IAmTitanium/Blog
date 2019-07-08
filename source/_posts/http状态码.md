@@ -3,7 +3,7 @@ title: Http状态码
 date: 2018-03-11 17:00:37
 categories: JS
 tags: 前后端交互篇
-cover: /img/httplogo.jpg
+cover: /img/httpzhuangtaima.jpg
 ---
 
 ### 状态码
